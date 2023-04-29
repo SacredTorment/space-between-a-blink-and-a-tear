@@ -1,2 +1,2 @@
 # space-between-a-blink-and-a-tear
-Gonna try to make a reverse phone number lookup that provides various info.
+fairly new to all this. i would like to customize an ai chat to take queries in the form of text, image, audio, or vide to verify phone number, address, name, login id, email, location data, gaming profiles,  photo recognition, voice recognition, work history, public accolades, any kind of liscense number, criminal record, social media profiles and posts, or any other possible identifying information then check the validity of all cross referenced information and compile it into a profile of verified, reliable information that could then be accessed simply by asking questions, typing a question, or uploading a file.
